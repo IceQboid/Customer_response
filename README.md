@@ -18,10 +18,4 @@ This project focuses on developing an automated system for generating responses 
 - **Deployment**: Provide a demo interface where users can input queries and receive automated responses, showcasing the practical application of the model.
 
 
-## Installation
 
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/your_username/automated-response-generation.git
-   cd automated-response-generation
